@@ -1,0 +1,194 @@
+query,type
+give me a sample code to update  students details,1
+give me a sample code to Delete students details,3
+give me a sample code to add students details,2
+give me a sample code to get all students details,0
+Provide a sample OpenAPI specification for a REST API that allows users to delete student records.,3
+Provide a sample OpenAPI specification for a REST API that allows users to get student records.,0
+Provide a sample OpenAPI specification for a REST API that allows users to add student records.,2
+Provide a sample OpenAPI specification for a REST API that allows users to update student records.,1
+Write a sample OpenAPI specification for a REST API that allows users to update students by id,1
+Write a sample OpenAPI specification for a REST API that allows users to delete students by id,3
+Write a sample OpenAPI specification for a REST API that allows users to add students by id,2
+Write a sample OpenAPI specification for a REST API that allows users to search  students by id,0
+Generate an OpenAPI specification for a REST API that allows users to update students in courses.,1
+Generate an OpenAPI specification for a REST API that allows users to delete students in courses.,3
+Generate an OpenAPI specification for a REST API that allows users to get students in courses.,0
+Generate an OpenAPI specification for a REST API that allows users to enroll students in courses.,2
+Create an OpenAPI specification for a REST API that allows users to update student events and activities.,1
+Create an OpenAPI specification for a REST API that allows users to get student events and activities.,0
+Create an OpenAPI specification for a REST API that allows users to delete student events and activities.,3
+Create an OpenAPI specification for a REST API that allows users to register for student events and activities.,2
+give me a sample code to get student,0
+give me a sample code to add student,2
+give me a sample code to update student,1
+give me a sample code to remove student,3
+Write a sample OpenAPI specification for a REST API that allows users to update a project.,1
+Write a sample OpenAPI specification for a REST API that allows users to get a project.,0
+Write a sample OpenAPI specification for a REST API that allows users to create a project.,2
+Write a sample OpenAPI specification for a REST API that allows users to delete a project.,3
+Write a sample OpenAPI specification for a REST API that allows users to find all details about all projects.,0
+Write a sample OpenAPI specification for a REST API that allows users to update project details.,1
+Write a sample OpenAPI specification for a REST API that allows users to delete tasks,3
+Create a sample OAS to add an item to a shopping cart.,2
+Create a sample OAS to get a specific item from a shopping cart.,0
+Create a sample OAS to get all items from a shopping cart.,0
+Create a sample OAS to remove a specific item from a shopping cart.,3
+Create a sample OAS to update the item count of a specific item in a shopping cart.,1
+Write a sample OAS doc to add a new employee to a company.,2
+Write a sample OAS doc to get details of a specific employee.,0
+Write a sample OAS doc to change the department of a specific employee.,1
+Write a sample OAS doc to remove an employee from a company.,3
+Write a sample OAS doc to get all employees in ascending order based on their joined date and also filter them based on a specific department,0
+Write a oas for  document to get all book details,0
+Write a sample code to get specific book details,0
+write a code to get all students details in school,0
+To find the all cloths in the store,0
+to get all clinets details,0
+to get all clinets details that employee is assigned,0
+Provide a sample code to calculate the average score of all students.,0
+Write an OpenAPI specification for a REST API that allows users to submit feedback for courses,2
+Generate a sample code to delete a course from the system,3
+Create an OpenAPI specification for a REST API that enables users to upload documents for student verification,2
+Write a code snippet to retrieve the list of all available teachers in a school.,0
+Create an OpenAPI specification for a REST API that allows users to schedule appointments with academic advisors.,2
+Write a sample code to mark attendance for a specific class session.,2
+Generate an OpenAPI specification for a REST API that permits users to reset their passwords,1
+Provide a code example for updating contact information for a student,1
+Write an OpenAPI specification for a REST API that facilitates the creation of study groups,2
+Create a code snippet to deactivate a user account in the system,2
+Write an OpenAPI specification for a REST API to retrieve the list of available courses for enrollment.,0
+Generate a sample code to add new subjects to the curriculum.,2
+Provide an OpenAPI specification for a REST API that allows users to request transcripts.,0
+Create an OpenAPI specification for a REST API that supports the creation of student clubs,2
+Write a sample code to calculate the GPA of a student,0
+Create a code snippet to mark a project as completed in the system,1
+Write an OpenAPI specification for a REST API to search for available scholarships,0
+Write an OpenAPI specification Update Employee Record,1
+Generate an OpenAPI specification for Create a new Employee,2
+Write an OpenAPI specification for  Update Customer Record,1
+to Create a Product Listing,2
+Create a sample OAS to Add a New Project,2
+Provide a code example for Update Product Information,1
+Write a oas for  document to Delete Employee Record,3
+Generate an OpenAPI specification for Submit a Travel Request,2
+Generate an OpenAPI specification for a REST API that  Update Order Status,1
+Remove Customer Account,3
+Create a sample OAS to Submit a Bug Report,2
+Create a sample OAS to Delete Product Listing,3
+Generate an OpenAPI specification for Register a New Customer,2
+Create a sample OAS to Terminate Project,3
+Write an OpenAPI specification for a REST API Update Vendor Information,1
+Create a sample OAS to remove Bug Report,3
+Generate a sample code to Delete Blog Post,3
+Write a sample code to  Update Project Details,1
+Write a sample code to  Update Book Information,1
+to remove Job Application,3
+Write an OpenAPI specification to Cancel Event,1
+Generate a sample code to Update Supplier Details,1
+give me a sample code to  Delete Recipe,3
+to create a New Task,2
+Generate an OpenAPI specification for remove Task,3
+Write a sample code to  Update Task Status,1
+Write an OpenAPI specification for Reject Travel Request,1
+Create a Blog Post,2
+to Delete Survey,3
+Write a sample code to Submit a Job Application,2
+Create a sample OAS to Expire Subscription,1
+Write an OpenAPI specification to Update Event Details,1
+Provide an OpenAPI specification for create a New Survey,2
+to Deactivate User Account,1
+Generate a sample code to Update Clinic Information,2
+Remove Company Announcement,3
+Write an OpenAPI specification to Create a New Event,2
+Generate a sample code to  End Auction,1
+Provide an OpenAPI specification for  To Update Flight Details,1
+Delete Conference Session,3
+Provide a sample OpenAPI specification for Remove Employee Training Record,3
+Update Movie Information,1
+to Add a New Recipe,2
+Provide a sample OpenAPI specification for Delete Customer Account,3
+OpenAPI specification for Approve Leave Request,1
+OpenAPI specification for Delete Customer Review,3
+Define an OpenAPI specification for Retrieve all students' details using the OpenAPI specification.,0
+Provide an OpenAPI specification for Publish Article,2
+Provide a sample OpenAPI specification for Update Customer Address,1
+Design an OpenAPI specification for a REST API facilitating users to  manage personal collections on a collector's platform.,1
+Formulate an OpenAPI specification for a REST API that permits users to search for and purchase products on a fashion e-commerce platform.,0
+Write an OpenAPI specification for Extend Subscription,1
+Create an OpenAPI specification for a REST API enabling users to search for nearby restaurants based on location.,0
+OpenAPI specification for Mark Notification as Read,1
+Generate an OpenAPI specification for a REST API that allows users to add items to their shopping cart on an online marketplace.,2
+Provide a sample OpenAPI specification for Create a New Project Task,2
+Implement a DELETE request in the OpenAPI specification to remove a specific item from the shopping cart.,3
+Generate a sample code to Add Product to Cart,2
+Define an OpenAPI specification for a REST API that allows users to delete their profile and associated data.,3
+Provide a sample OpenAPI specification for Remove Employee from Team,3
+Generate an OpenAPI specification for a REST API that allows users to remove items from their saved list on an online marketplace.,3
+Define an OpenAPI specification for a REST API that allows users to get details about a specific user profile.,0
+Provide a sample OpenAPI specification for Update Employee Performance Review,1
+Create an OpenAPI specification for a REST API enabling users to remove their submitted support tickets on a customer service platform.,3
+Design an OpenAPI specification for a REST API facilitating the retrieval of weather information based on location.,0
+Provide an OpenAPI specification for Cancel Appointment,1
+Develop an OpenAPI specification for a REST API that enables users to get the latest messages in a chat application.,0
+Retrieve a list of available games and their details using the OpenAPI specification for a gaming platform.,0
+Construct an OpenAPI specification for a REST API that allows users to delete their scheduled events on a calendar application.,3
+Provide a sample OpenAPI specification for Create a New Portfolio Item,2
+Develop an OpenAPI specification for a REST API that enables users to remove specific messages in a chat application.,3
+Develop an OpenAPI specification for a REST API that enables users to search for  vacation rentals.,0
+Design an OpenAPI specification for a REST API facilitating users to discard their weather preferences.,3
+Provide an OpenAPI specification for Add Attendee to Event,2
+Draft an OpenAPI specification for a REST API that permits users to remove a booked flight reservation.,3
+Draft an OpenAPI specification for a REST API that permits users to  book appointments.,1
+Generate an OpenAPI specification for a REST API that supports user account Creation on a gaming platform.,2
+Define an OpenAPI specification for a REST API that enables users to update student records.,1
+Create an OpenAPI specification for a REST API enabling users to search for nearby restaurants based on location.,0
+Define an OpenAPI specification for a REST API that allows users to update their profile information on a social media platform.,1
+Develop an OpenAPI specification for a REST API facilitating users to search for students by ID.,0
+Generate an OpenAPI specification for a REST API allowing users to enroll students in courses.,2
+Create an OpenAPI specification for a REST API enabling users to register for student events and activities.,2
+Remove a student using the appropriate OpenAPI specification.,3
+Draft an OpenAPI specification for a REST API that permits users to create a project.,2
+Formulate an OpenAPI specification for a REST API providing details about all projects.,0
+Design an OpenAPI specification for a REST API allowing users to update project details.,1
+Develop an OpenAPI specification for a REST API enabling users to delete tasks.,3
+Construct an OpenAPI specification for a REST API to add an item to a shopping cart.,2
+Formulate an OpenAPI specification for a REST API to retrieve a specific item from a shopping cart.,1
+Define an OpenAPI specification for a REST API that allows users to mark a student as graduated.,1
+Design an OpenAPI specification for a REST API that retrieves a list of all available courses.,0
+Create an OpenAPI specification for a REST API enabling users to update course information.,1
+Generate an OpenAPI specification for a REST API that lets users to get students from courses.,0
+Formulate an OpenAPI specification for a REST API that provides information on upcoming student exams.,0
+Draft an OpenAPI specification for a REST API allowing users to register faculty members.,2
+Develop an OpenAPI specification for a REST API that retrieves details about all faculty members.,0
+Create an OpenAPI specification for a REST API that allows users to update faculty profiles.,1
+Design an OpenAPI specification for a REST API facilitating the deletion of a faculty member.,3
+Define an OpenAPI specification for a REST API that permits users to create and manage study groups.,2
+Generate an OpenAPI specification for a REST API allowing users to search for study groups by subject.,0
+Formulate an OpenAPI specification for a REST API that enables users to join or leave study groups.,1
+Draft an OpenAPI specification for a REST API that lets users submit assignments.,2
+Develop an OpenAPI specification for a REST API providing grades and feedback for submitted assignments.,0
+Create an OpenAPI specification for a REST API allowing users to update assignment details.,1
+Generate an OpenAPI specification for a REST API that permits users to delete submitted assignments.,3
+Design an OpenAPI specification for a REST API that allows users to request transcripts for students.,0
+Define an OpenAPI specification for a REST API that retrieves information about academic departments.,0
+Formulate an OpenAPI specification for a REST API that enables users to update department details.,1
+ OpenAPI specification for a REST API allowing users to remove departments.,3
+Retrieve a list of all products from an e-commerce platform using the OpenAPI specification.,0
+Generate an OpenAPI specification for a REST API that provides statistics on student attendance.,0
+Develop an OpenAPI specification for a REST API that allows users to create  class schedules.,2
+Design an OpenAPI specification for a REST API that retrieves details about campus facilities.,0
+OpenAPI specification for a REST API that lets users update information about campus facilities.,1
+Formulate an OpenAPI specification for a REST API that allows users to reserve rooms in campus facilities.,1
+Draft an OpenAPI specification for a REST API that facilitates the cancellation of room reservations.,1
+Retrieve all students' details using the OpenAPI specification,0
+Generate an OpenAPI specification for a REST API that retrieves information about available internship opportunities.,0
+Develop an OpenAPI specification for a REST API that allows users to update internship details.,1
+Design an OpenAPI specification for a REST API that facilitates the removal of internship listings.,3
+Define an OpenAPI specification for a REST API that supports users to retrive feedback and reviews for courses.,0
+Formulate an OpenAPI specification for a REST API that provides details about graduation ceremonies.,0
+Draft an OpenAPI specification for a REST API that enables users to update graduation ceremony information.,1
+Create an OpenAPI specification for a REST API that allows users to get information about graduation ceremonies.,0
+Generate an OpenAPI specification for a REST API that supports student account creation.,2
+API that retrieves information about student clubs and organizations.,0
+Write OpenAPI specification for a REST API that allows users to update club  details.,1
